@@ -1,0 +1,8 @@
+#! specific site
+@@|endlessvideo.com|
+@@|www.tickcounter.com|
+@@|22pixx.xyz|
+
+#! Whole sites
+@@||tinyurl.com^
+@@||googlevideo.com^
