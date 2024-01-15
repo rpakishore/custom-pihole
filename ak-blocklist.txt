@@ -10,3 +10,18 @@
 # Annoyance
 ||betbarter.com^
 0.0.0.0 dsadata.intel.com
+
+# Chinese Servers
+||aliyun.com^
+||tuyaus.com^
+||xiaomi.com^
+||aliyuncs.com^
+||hicloud.com^
+||alibabadns.com^
+||alicdn.com^
+
+# India Tracking
+||jio.com^
+
+# Malware
+||mcafee.com^
