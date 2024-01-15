@@ -1,0 +1,19 @@
+# Hwawei Tracking
+0.0.0.0 grs.dbankcloud.eu.home
+0.0.0.0 grs.dbankcloud.eu
+0.0.0.0 grs.dbankcloud.com
+0.0.0.0 cloudres-dra.dbankcdn.com
+0.0.0.0 grs.dbankcloud.cn
+0.0.0.0 openapi5.dbank.com
+0.0.0.0 appoptimize-dra.dbankcdn.com.home
+0.0.0.0 appdl2.dbankcdn.com
+0.0.0.0 dbankcloud.cn
+0.0.0.0 sdkserver-dra.op.dbankcloud.cn
+0.0.0.0 connect-dra.dbankcloud.cn
+0.0.0.0 events-dra.op.dbankcloud.cn
+0.0.0.0 dnkeeper.dbankcloud.com
+0.0.0.0 sdkserver-dra.op.dbankcloud.cn
+
+# Annoyance
+0.0.0.0 betbarter.com
+0.0.0.0 dsadata.intel.com
