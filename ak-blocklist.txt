@@ -25,3 +25,7 @@
 
 # Malware
 ||mcafee.com^
+
+#IoT Tracking
+||wiz.world^
+||meethue.com^
