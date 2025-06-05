@@ -1,3 +1,5 @@
+# https://adblockplus.org/filter-cheatsheet#blocking2
+
 # Hwawei Tracking
 ||dbankcloud.cn^
 ||dbankcloud.com^
@@ -9,7 +11,7 @@
 
 # Annoyance
 ||betbarter.com^
-0.0.0.0 dsadata.intel.com
+||dsadata.intel.com^
 
 # Chinese Servers
 ||aliyun.com^
@@ -19,6 +21,7 @@
 ||hicloud.com^
 ||alibabadns.com^
 ||alicdn.com^
+||alimebot.aliexpress.com^
 
 # India Tracking
 ||jio.com^
@@ -32,3 +35,7 @@
 
 #Popular Phishing Capaign
 ||sendgrid.net^
+
+# Other
+||api.rudderstack.com^
+||ecdinterface.philips.com^
